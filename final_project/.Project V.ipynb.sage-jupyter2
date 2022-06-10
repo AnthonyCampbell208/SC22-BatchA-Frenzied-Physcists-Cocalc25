@@ -1,0 +1,4 @@
+{"backend_state":"init","kernel":"ds_env","kernel_state":"idle","kernel_usage":{"cpu":0,"memory":0},"trust":true,"type":"settings"}
+{"id":"5e3e6d","input":"","pos":0,"state":"done","type":"cell"}
+{"id":0,"time":1654871705118,"type":"user"}
+{"last_load":1654871737273,"type":"file"}
